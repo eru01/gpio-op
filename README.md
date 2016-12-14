@@ -5,6 +5,13 @@
 Currently you can use with these devices. Others, such as OrangePi One, also can run by *gpio-op* with some changes probably.
 - OrangePi Zero
 
-# Usage
+# Requirements
 Under construction.
 
+# Usage
+
+# Installation
+
+# Implementation detail
+
+# Contribution
